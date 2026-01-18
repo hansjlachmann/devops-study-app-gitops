@@ -11,6 +11,6 @@ namePrefix: dev-
 
 images:
   - name: backend
-    newTag: dev
+    newTag: backend-v0.2.0
   - name: frontend
-    newTag: dev
+    newTag: frontend-v0.1.0
